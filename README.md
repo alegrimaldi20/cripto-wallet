@@ -1,5 +1,7 @@
 # Setting Up React Native
 
+Secure crypto wallet to manage funds, interact with Dapps, sign transactions and more on multiple chains such as Ethereum, Optimism, Arbitrum, Sepolia, etc.
+
 
 Visit the react native docs to setup react native for Android and IOS.
 
