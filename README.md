@@ -1,4 +1,6 @@
-# Setting Up React Native
+# Crypto Wallet
+
+## Setting Up React Native
 
 Secure crypto wallet to manage funds, interact with Dapps, sign transactions and more on multiple chains such as Ethereum, Optimism, Arbitrum, Sepolia, etc.
 
@@ -51,3 +53,10 @@ Using yarn:
 
 
 ``yarn ios``
+
+
+
+![wallet](https://github.com/user-attachments/assets/1e7677d6-086e-4ff9-bb9f-b0051a4c6811)
+
+
+
